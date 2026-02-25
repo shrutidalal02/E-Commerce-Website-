@@ -6,17 +6,17 @@ This project demonstrates practical frontend development skills including reusab
 
 # Project Overview :
 
-The E-Shopping Website enables users to browse products, manage cart items, and simulate authentication in a clean, responsive interface.
-The application is designed using a modular React architecture and leverages React Hooks for efficient state handling.
+1.The E-Shopping Website enables users to browse products, manage cart items, and simulate authentication in a clean, responsive interface.
+2.The application is designed using a modular React architecture and leverages React Hooks for efficient state handling.
 
 # Core Features :
 
-User Authentication (Login/Logout UI flow)
-Product Listing with dynamic rendering
-Add to Cart / Remove from Cart functionality
-Cart quantity management
-Real-time UI updates
-Fully responsive design
+1.User Authentication (Login/Logout UI flow)
+2.Product Listing with dynamic rendering
+3.Add to Cart / Remove from Cart functionality
+4.Cart quantity management
+5.Real-time UI updates
+6.Fully responsive design
 
 # Technical Highlights
 1.Component-Based Architecture: Built using reusable and structured React components to ensure maintainability and scalability.
@@ -35,9 +35,9 @@ Functional components with modern React practices
 
 # Project Objective :
 The goal of this project was to build a scalable frontend e-commerce application while applying:
-React Hooks
-Context API
-Component reusability principles
-Real-time state synchronization
-Clean UI/UX design practices
+1.React Hooks
+2.Context API
+3.Component reusability principles
+4.Real-time state synchronization
+5.Clean UI/UX design practices
 
